@@ -48,9 +48,6 @@ classDiagram
         +void setNombre(std::string nombre)
         +void setEdad(int edad)
         +void setCarrera(std::string carrera)
-
-        +void imprimeAlumno()
-        +void cumpleAnios()
     }
 ```
 
