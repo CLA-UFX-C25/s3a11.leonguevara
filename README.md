@@ -75,7 +75,9 @@ Para más información consulta el [MarketPlace](https://marketplace.visualstudi
 
 ## Instrucciones
 
-- Deberás modificar el archivo `exercise.cpp`  y agregar la programación adicional que sea necesaria.
+- Deberás realizar la declaración e implementación de la clase `Alumno` en los archivos [Alumno.hpp](Alumno.hpp) y [Alumno.cpp](Alumno.cpp) respectivamente.
+- Deberás modificar el archivo [`exercise.cpp`](exercise.cpp)  y agregar la programación adicional que sea necesaria.
+- Valida que tu codificación cumpla con los requisitos especificados en el archivo [Req-ActivS3A11.pdf](Req-ActivS3A11.pdf)
 
 Explicación de los otros archivos:
 
